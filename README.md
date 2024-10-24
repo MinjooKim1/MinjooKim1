@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Minjoo based in🇰🇷🇨🇦
 - 👀 I’m interested in designing intuitive and engaging user interfaces for websites, mobile apps, and games.
-- 🍀 Here is my design [Portfolio](https://www.minjoo.me)<br/>
+- 🍀 Here is my design [Portfolio](https://www.behance.net/minjookim26)<br/>
 - 🌱 I’m currently into javascript to enhance my skills as a UX/UI designer & Developer
 - 📫 How to reach me [here](https://www.linkedin.com/in/minjoohaileykim/)... I love talking with people!!
 
